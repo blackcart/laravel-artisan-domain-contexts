@@ -24,10 +24,11 @@
     "homepage": "https://github.com/allysonsilva/laravel-artisan-domain-contexts",
     "require": {
         "php": ">=8.0",
-        "laravel/framework": "^9.32",
+        "laravel/framework": "^9.32 || ^10.0",
         "nikic/php-parser": "^4.13"
     },
     "require-dev": {
+        "roave/security-advisories": "dev-latest",
         "ergebnis/phpstan-rules": "^1.0",
         "nunomaduro/larastan": "^2.0",
         "orchestra/testbench": "^7.0",
