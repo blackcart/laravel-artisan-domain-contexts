@@ -24,7 +24,7 @@
     "homepage": "https://github.com/allysonsilva/laravel-artisan-domain-contexts",
     "require": {
         "php": ">=8.0",
-        "laravel/framework": "^9.32 || ^10.0",
+        "laravel/framework": "^9.32 || ^10.0 || ^11.0",
         "nikic/php-parser": "^4.13"
     },
     "require-dev": {
